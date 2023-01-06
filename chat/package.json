@@ -13,7 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
+    "nuxt": "^3.0.0",
     "socket.io": "^2.0.4",
     "socket.io-client": "^2.0.4"
   },
